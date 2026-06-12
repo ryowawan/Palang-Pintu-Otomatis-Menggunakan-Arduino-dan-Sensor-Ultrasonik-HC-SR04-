@@ -20,7 +20,7 @@ Sensor ini memiliki 4 kaki/pin
 - TRIG: Sambungkan ke Pin 3 di Arduino
 - ECHO: Sambungkan ke Pin 2 di Arduino
 
-### Motor Servo (misal: SG90)
+### Motor Servo
 Motor servo biasanya memiliki 3 helai kabel yang menyatu
 - Kabel Merah: Sambungkan ke pin 5V di Arduino
 - Kabel Coklat/Hitam: Sambungkan ke pin GND di Arduino
