@@ -37,4 +37,5 @@ LED memiliki dua kaki: kaki panjang adalah Positif (Anoda) dan kaki pendek adala
 - Kaki Pendek (-) dipasang ke GND Arduino
 
 **Catatan Penting untuk LED**
-Sangat disarankan untuk memasang Resistor (misalnya ukuran 220 Ohm atau 330 Ohm) pada masing-masing kaki panjang (+) LED sebelum disambungkan ke pin Arduino. Tujuannya agar lampu LED tidak putus/terbakar akibat arus yang terlalu besar.
+Sangat disarankan untuk memasang Resistor (misalnya ukuran 220 Ohm atau 330 Ohm) pada masing-masing kaki panjang (+) LED sebelum disambungkan ke pin Arduino. Tujuannya agar lampu LED tidak putus/terbakar akibat arus yang terlalu besar
+
