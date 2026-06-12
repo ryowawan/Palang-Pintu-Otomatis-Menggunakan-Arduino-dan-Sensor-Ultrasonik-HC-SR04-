@@ -29,13 +29,15 @@ Motor servo biasanya memiliki 3 helai kabel yang menyatu
 
 ### ➡️ Lampu LED Merah & Hijau
 LED memiliki dua kaki: kaki panjang adalah Positif (Anoda) dan kaki pendek adalah Negatif (Katoda)
-**LED Merah :**
+▶️**LED Merah :**
 - Kaki Panjang (+) dipasang ke Pin 5 Arduino
 - Kaki Pendek (-) dipasang ke GND Arduino
-**LED Hijau :**
+- 
+▶️**LED Hijau :**
 - Kaki Panjang (+) dipasang ke Pin 6 Arduino
 - Kaki Pendek (-) dipasang ke GND Arduino
 
 **Catatan Penting untuk LED**
+
 Sangat disarankan untuk memasang Resistor (misalnya ukuran 220 Ohm atau 330 Ohm) pada masing-masing kaki panjang (+) LED sebelum disambungkan ke pin Arduino. Tujuannya agar lampu LED tidak putus/terbakar akibat arus yang terlalu besar
 
